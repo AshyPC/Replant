@@ -110,7 +110,7 @@ Lack of connection with church mission
 --------------------------------------
 
 Nothing in a seating plan has any direct impact on the church mission as listed
-above, and the justifications must demonstrate indirect impact.
+above, so the justifications must demonstrate indirect impact.
 
 Core change vs trappings
 ------------------------

@@ -88,7 +88,7 @@ indirect impact.
 Core change vs trappings
 ------------------------
 
-In the meeting on Jan 15th, Barry specifically stated::
+In the meeting on Jan 15th, Barry specifically stated:
 
     We are NOT just tacking onto what's here; we are making something completely new.
 

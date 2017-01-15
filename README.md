@@ -4,6 +4,34 @@ Abstract
 Ashburton Presbyterian Church is proposing a change and a replant. This document
 sets down the goals of the changes and how the proposal achieves them.
 
+Church mission
+==============
+
+Before any proposal can be entertained, the church's own purpose must be defined.
+Proposals which support this purpose are inherently better than those which do not.
+
+Salvation of the unsaved
+------------------------
+
+It hardly needs to be said, but the goal of a church is people. As it's difficult
+to reach out to people who have been offended by our form and structure, we must
+aim to minimize such offense.
+
+Education and sanctification
+----------------------------
+
+Church is not a "feel-good club" for people who are already perfect. It is a place
+where the Word of God is expounded and taught, where truth is shared and explained,
+and where flawed sinners learn more about the perfect One. Any change that disrupts
+this is bad and dangerous.
+
+Stability and strength
+----------------------
+
+[Psalm 40:2](http://sikorsky.rosuav.com:8082/Psalm%2B40.html) is used as the church
+motto - giving God's people a "firm place to stand". Our doctrine must be stable and
+dependable.
+
 Goals
 =====
 

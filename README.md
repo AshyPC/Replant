@@ -100,6 +100,11 @@ goals must reflect this, and must also set a limit on the newness; without any l
 on the newness, utterly ridiculous counter-proposals such as selling the building and
 switching to house-churches will become viable - and more so than the current plans.
 
+Specific proposals
+==================
+
+TBD.
+
 Conclusion
 ==========
 

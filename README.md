@@ -106,12 +106,11 @@ that means knowing *in advance* what the test will be measured against. With the
 non-trivial criteria, this means pinning down some measurable result which will be
 taken as an indication of a hard-to-measure goal.
 
-Lack of connection with church purpose
+Lack of connection with church mission
 --------------------------------------
 
-The goal of a church is salvation, sanctification, education, etc. Nothing in a
-seating plan has any direct impact on this, and the justifications must demonstrate
-indirect impact.
+Nothing in a seating plan has any direct impact on the church mission as listed
+above, and the justifications must demonstrate indirect impact.
 
 Core change vs trappings
 ------------------------

@@ -22,7 +22,7 @@ Education and sanctification
 
 Church is not a "feel-good club" for people who are already perfect. It is a place
 where the Word of God is expounded and taught, where truth is shared and explained,
-and where flawed sinners learn more about the perfect One. Any change that disrupts
+and where flawed sinners learn more about the Perfect One. Any change that disrupts
 this is bad and dangerous.
 
 Stability and strength

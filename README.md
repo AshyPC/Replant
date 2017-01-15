@@ -103,7 +103,54 @@ switching to house-churches will become viable - and more so than the current pl
 Specific proposals
 ==================
 
-TBD.
+Semi-circular seating layout
+----------------------------
+
+Justification: Less formal
+
+TODO: Expand me
+
+More musicians
+--------------
+
+TODO: Who do we have?
+
+Sound desk positioning
+----------------------
+
+TODO: List our options
+
+Podium instead of stage
+-----------------------
+
+With or without removing the physical structure of the stage.
+
+Major concerns
+==============
+
+"Barry says"
+------------
+
+So far, most of the goals have been justified only by "Barry says this" or "Barry
+thinks this would be better". This church is not about one-man goals, so better
+justifications MUST be found.
+
+YAGNI
+-----
+
+Additional seating space is not a current necessity. It is a well-known tenet that
+we should aim for what we actually need, not what we think we might need. Any plan
+that gives us at least 100 seats is virtually indistinguishable from any other such
+plan; the difference between capacity of 132 and capacity of 117 is completely not
+significant *to the replant*. Once experimentation has been done based on the other
+goals, considerations about capacity can be considered - maybe that'll be in six
+months, maybe in six years. By the time that becomes important, we will have more
+data from which to work.
+
+In the extremely unlikely event that we *suddenly* have 150 people in the church,
+we can explore temporary options, until such time as we see that it is sustained.
+(Even funerals, which (as of 2016) are our best draw-card, don't often fully fill
+our current seating plan. We can easily lay out a few chairs temporarily.)
 
 Conclusion
 ==========

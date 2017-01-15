@@ -43,7 +43,19 @@ We should always strive to offend people with substance, not form. (Gal 5:11)
 Known objections
 ================
 
-TBD
+Change for change's sake
+------------------------
+
+    "Dr Bumby says 'change' is constructive - that 'different' is good."
+    "'Different' denotes neither bad nor good; it certainly denotes 'not the same'."
+
+Merely changing things is not inherently good. Stability has benefits. Any change
+must justify itself with more than marginal improvement, as it must overcome the
+costs of _making_ the change.
+
+There is a well-known saying that ["status quo wins a stalemate"]
+(http://www.curiousefficiency.org/posts/2011/02/status-quo-wins-stalemate.html).
+
 
 Conclusion
 ==========

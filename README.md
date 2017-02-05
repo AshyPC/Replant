@@ -4,6 +4,8 @@ Abstract
 Ashburton Presbyterian Church is proposing a change and a replant. This document
 sets down the goals of the changes and how the proposal achieves them.
 
+DAD comments added 5 Feb 2017
+
 Church mission
 ==============
 
@@ -32,6 +34,8 @@ Stability and strength
 motto - giving God's people a "firm place to stand". Our doctrine must be stable and
 dependable.
 
+DAD None of the above are in question so far.
+
 Goals
 =====
 
@@ -55,12 +59,16 @@ The present arrangement seats a bit over a hundred people. If the church is bles
 with a significant increase in membership, we will need additional seating space.
 Also, drastically _reducing_ seating capacity will strangle the church's growth.
 
+DAD Reducing seating may be a temporary measure to reduce a sense of sparseness, as long as capacity can be restored as needed
+
 Demonstrating change
 --------------------
 
 We are engaging in a church replant, and need to reinforce that this is a new
 beginning. People who walk into the church for the first time must instantly know
 that we have changed things.
+
+DAD New people who don't know the previous layout will not be able t assess this. But they usually are aware of the differences in seating styles bewtween church eras. Thus differences between prevous centuries (pews with doors, highly rigid) vs last century (1950s orthoganal rows) vs more recent times (semi-circular in fabric chairs rather than pews) are readily perceived even by visitors
 
 Justification
 =============
@@ -89,6 +97,8 @@ Unless it can be demonstrated that "change for change's sake" is, in this case,
 a good thing, the changes [MUST](https://www.ietf.org/rfc/rfc2119.txt) be justified
 by something stronger.
 
+DAD Ready? Fire. Aim!
+
 Vague goals
 -----------
 
@@ -96,6 +106,8 @@ Some of the goals listed above are fuzzy and hard to pin down. For instance, mak
 the church more welcoming (or, conversely, the reduction of the sense of "them and
 us") is hard to prove based on a seating plan alone. These will need to be tested in
 a way which gives coherent data.
+
+DAD yes, but so also are some of the statements in this document. When dealing with people and attitudes to appearances, some will inevitably be difficult to quantify in any strict sense
 
 Falsifiability (testability)
 ----------------------------
@@ -127,6 +139,8 @@ goals must reflect this, and must also set a limit on the newness; without any l
 on the newness, utterly ridiculous counter-proposals such as selling the building and
 switching to house-churches will become viable - and more so than the current plans.
 
+DAD Barry's statement was heard and then the point was ignored by the meeting, whhich proceeded with an incremental rather than a radical all-new approach. 
+
 Specific proposals
 ==================
 
@@ -147,10 +161,14 @@ Sound desk positioning
 
 TODO: List our options
 
+DAD Seen in some of the diagrams. Basically only two broad types: off-centre (usually v. poor based on experiences of other churches) centre rear (probably best); Rear position best for assessing sound balance but still requires checks at other points around the building
+
 Podium instead of stage
 -----------------------
 
 With or without removing the physical structure of the stage.
+
+DAD as per minutes of the meeting (separate document in this repo) minimal physical changes at this stage; only approved new blinds which would be useful regardless of the final outcome if this experiment, plus moving the projector on a temporary basis only
 
 Major concerns
 ==============
@@ -161,6 +179,8 @@ Major concerns
 So far, most of the goals have been justified only by "Barry says this" or "Barry
 thinks this would be better". This church is not about one-man goals, so better
 justifications MUST be found.
+
+DAD the meeting actually declined to use Barry's model, and adopted Les Oliver's approach
 
 YAGNI
 -----
@@ -178,6 +198,8 @@ In the extremely unlikely event that we *suddenly* have 150 people in the church
 we can explore temporary options, until such time as we see that it is sustained.
 (Even funerals, which (as of 2016) are our best draw-card, don't often fully fill
 our current seating plan. We can easily lay out a few chairs temporarily.)
+
+DAD Agreed by the meeting, which did not endorse the use of all the available pews, but only sufficient to make the experiment feasible and realistic. This included an obvious allowance for space at the back for control desk and children's area, plus a walking aisle, and provision for aisles to accommodate funeral and wedding services. All suggestions acknowledged the limitations of rigid pews, but considered the experiment worth a try.
 
 Conclusion
 ==========

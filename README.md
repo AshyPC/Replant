@@ -68,7 +68,7 @@ We are engaging in a church replant, and need to reinforce that this is a new
 beginning. People who walk into the church for the first time must instantly know
 that we have changed things.
 
-DAD New people who don't know the previous layout will not be able t assess this. But they usually are aware of the differences in seating styles bewtween church eras. Thus differences between prevous centuries (pews with doors, highly rigid) vs last century (1950s orthoganal rows) vs more recent times (semi-circular in fabric chairs rather than pews) are readily perceived even by visitors
+DAD New people who don't know the previous layout will not be able to assess this. But they usually are aware of the differences in seating styles between church eras. Thus differences between prevous centuries (pews with doors, highly rigid) vs last century (1950s orthoganal rows) vs more recent times (semi-circular in fabric chairs rather than pews) are readily perceived even by visitors
 
 Justification
 =============
@@ -139,7 +139,7 @@ goals must reflect this, and must also set a limit on the newness; without any l
 on the newness, utterly ridiculous counter-proposals such as selling the building and
 switching to house-churches will become viable - and more so than the current plans.
 
-DAD Barry's statement was heard and then the point was ignored by the meeting, whhich proceeded with an incremental rather than a radical all-new approach. 
+DAD Barry's statement was heard and then the point was ignored by the meeting, which proceeded with an incremental rather than a radical all-new approach. 
 
 Specific proposals
 ==================
@@ -181,6 +181,7 @@ thinks this would be better". This church is not about one-man goals, so better
 justifications MUST be found.
 
 DAD the meeting actually declined to use Barry's model, and adopted Les Oliver's approach
+4 Mar DAD added: the "Barry says" part I interpret as an attempt at arresting a decline based on a "don't change what we are doing, even though we are losing people and not attracting new people" mindset. 
 
 YAGNI
 -----
